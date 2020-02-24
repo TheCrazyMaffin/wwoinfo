@@ -21,7 +21,7 @@
 title: WWO Info
 email: thecrazymaffin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Translated Knowledgebase/Utility for Werewolf Online and it's social media appearance
+  Knowledgebase/Utility for Werewolf Online and it's social media appearance
 baseurl: "/wwoinfo" # the subpath of your site, e.g. /blog
 url: "https://thecrazymaffin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: N/A
