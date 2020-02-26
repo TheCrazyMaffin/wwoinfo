@@ -2,8 +2,13 @@
 Translated Knowledgebase/Utility for Werewolf Online and it's social media appearance
 
 # Notes for developrers
+
+The folders with a name starting with an underscore are used for the page internals. Only folders without an underscore are included in the sitemap.
+
 ## _posts
 Files have to follow `YEAR-MONTH-DAY-title.MARKUP`
+
+Place files in `_drafts` if unfinished/waiting to be published. Please keep in mind that anyone can view this repository, hence also drafts.
 
 ### Template
 
