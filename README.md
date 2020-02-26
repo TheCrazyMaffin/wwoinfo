@@ -25,7 +25,8 @@ CONTENT
 ```
 ---
 layout: page
-title: "PAGE TITLE" # Only add a title if it should be shown in the bar at the top
-permalink: /URL-PATH/
+title: "PAGE TITLE"
+exclude: true # Remove this line if this file should be shown in the header of the page
+# permalink: /URL-PATH/ # Not required. Only added if link differs from file path
 ---
 ```
