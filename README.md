@@ -3,7 +3,8 @@ Translated Knowledgebase/Utility for Werewolf Online and it's social media appea
 
 # Notes for developrers
 
-The folders with a name starting with an underscore are used for the page internals. Only folders without an underscore are included in the sitemap.
++ The folders with a name starting with an underscore are used for the page internals. Only folders without an underscore are included in the sitemap.
++ Use relative paths for links within the page
 
 ## _posts
 Files have to follow `YEAR-MONTH-DAY-title.MARKUP`

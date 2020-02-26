@@ -6,8 +6,8 @@ title: "Discord"
 
 ## Links
 + Invite link: [discord.gg/wwo](https://discord.gg/wwo)
-+ [Contact guardians](./guardians)
-+ [Social media rewards](./social_media)
++ [Contact guardians](./discord/guardians)
++ [Social media rewards](./discord/social_media)
 
 ## Assets
 + [Banner image](https://cdn.discordapp.com/banners/414179354814185498/da42ca9daf4d4d06a5714b73cebbc2ae.jpg?size=2048)
