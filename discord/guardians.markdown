@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "" # Do not show in header
+exclude: true
 permalink: /discord/guardians
 ---
 
