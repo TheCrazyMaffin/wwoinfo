@@ -52,6 +52,7 @@ App version:
 Device:
 Operating system
 ```
-Problems finding `App version`/`Device`/`Operating system`? Read [this](./info) guide
+Problems finding `App version`/`Device`/`Operating system`? Read [this](./info) guide.
+
 After filling all gaps please submit the bug on our [discord](https://discord.gg/wwo).
 Head over to the #bugs channel and paste the filled template there. Someone will get back to you asap.
