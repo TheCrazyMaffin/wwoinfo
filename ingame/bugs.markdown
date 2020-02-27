@@ -10,6 +10,8 @@ title: Bugs
 
 ### Ways to fix bugs <a name="1">
 
+If your bug is not listed bellow or if the fix mentioned here does not resolve the issues please go ahead and follow *[How to report bugs](#2)*
+
 | Bug | Fix |
 | --- | --- |
 | Unplayable on S10+ | Enable energy savings |
@@ -35,7 +37,6 @@ title: Bugs
 | Problems with any chat | (Re-)Open chat via ingame button |
 | Connection lost while playing with friends | Dont leave the app while in lobby |
 
-
 ### How to report bugs <a name="2">
 
 To make the process of finding bugs easier you might want to use this template: 
@@ -52,3 +53,5 @@ Device:
 Operating system
 ```
 Problems finding `App version`/`Device`/`Operating system`? Read [this](./info) guide
+After filling all gaps please submit the bug on our [discord](https://discord.gg/wwo).
+Head over to the #bugs channel and paste the filled template there. Someone will get back to you asap.
