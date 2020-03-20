@@ -22,7 +22,7 @@ exclude: true
 
 **Don't**
 + create roles with more than 2000 characters. Gotta be simple.
-+ copy roles from [Town of Salem](http://www.blankmediagames.com/roles/), [Werewolf](https://www.playwerewolf.co/rules/roles/), [Werewolves Within](https://youtu.be/v32UtVSBFwc) or any other mafia game.
++ copy roles from [Town of Salem](https://www.blankmediagames.com/roles/), [Werewolf](https://www.playwerewolf.co/rules/roles/), [Werewolves Within](https://youtu.be/v32UtVSBFwc) or any other mafia game.
 + copy roles from someone else. [Check already existing suggestions](#dupe)
 + suggest overpowered roles.
 + suggest luck-based roles.
@@ -64,7 +64,7 @@ _Before you dive straight into it please check if that idea hasnt been suggested
 
 <script>
     function f(){
-        document.getElementById('replaceMe').innerHTML='<iframe src=\" http://bit.ly/roledatabase\" style=\"width:100%;height:1000px\"></iframe>'
+        document.getElementById('replaceMe').innerHTML='<iframe src=\" https://bit.ly/roledatabase\" style=\"width:100%;height:1000px\"></iframe>'
     }
 </script>
 <div id="replaceMe" onClick="f()">
