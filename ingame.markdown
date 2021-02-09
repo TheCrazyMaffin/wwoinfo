@@ -54,6 +54,7 @@ _Click on the categories to extend them._
 | --- |
 | [Set status](https://a.questionable.link/tjLy18.gif) |
 | [Set personal message](https://a.questionable.link/AsigKL.gif) |
+| [Add friends](https://a.questionable.link/8APSV7.gif) |
 
 </details>
 
