@@ -22,6 +22,7 @@ _Click on the categories to extend them._
 | [Check sign up method](https://a.questionable.link/GQ3Pbk.gif) |
 | [Redeeming a code](https://a.questionable.link/MX7rcY.gif) |
 | [Checking game and device info](https://a.questionable.link/FpdGvK.gif) |
+| [Delete account](https://a.questionable.link/fShWB5.gif) |
 
 </details>
 
