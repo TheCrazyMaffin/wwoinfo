@@ -17,6 +17,7 @@ _Click on the categories to extend them._
 
 | Name |
 | --- |
+| [Get support pin](https://a.questionable.link/hbYmPE.gif) |
 | [Change username](https://a.questionable.link/HWQ7x7.gif) |
 | [Change gender](https://a.questionable.link/d87D96.gif) |
 | [Check sign up method](https://a.questionable.link/GQ3Pbk.gif) |
@@ -32,6 +33,8 @@ _Click on the categories to extend them._
 | Name |
 | --- |
 | [Change skin tone](https://a.questionable.link/cWdEK2.gif) |
+| [Change skin gender](https://a.questionable.link/9Fxjo7.gif) |
+| [Change skin](https://a.questionable.link/7qD3mI.gif) |
 | [Share avatar](https://a.questionable.link/Erh5Uq.gif) |
 | [Preview mode](https://a.questionable.link/S0J1fX.gif) |
 | [Equip talismans](https://a.questionable.link/DIGXIp.gif) |
