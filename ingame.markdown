@@ -22,7 +22,7 @@ _Click on the categories to extend them._
 | [Check sign up method](https://a.questionable.link/GQ3Pbk.gif) |
 | [Redeeming a code](https://a.questionable.link/MX7rcY.gif) |
 | [Checking game and device info](https://a.questionable.link/FpdGvK.gif) |
-| [Delete account](https://a.questionable.link/fShWB5.gif) |
+| [Delete account](https://a.questionable.link/ok2qKa.gif) |
 
 </details>
 
@@ -31,9 +31,9 @@ _Click on the categories to extend them._
 
 | Name |
 | --- |
-| [Change skin tone](https://a.questionable.link/Ob8sOg.gif) |
-| [Share avatar](https://a.questionable.link/TSioxV.gif) |
-| [Preview mode](https://a.questionable.link/ZqE759.gif) |
+| [Change skin tone](https://a.questionable.link/cWdEK2.gif) |
+| [Share avatar](https://a.questionable.link/Erh5Uq.gif) |
+| [Preview mode](https://a.questionable.link/S0J1fX.gif) |
 | [Equip talismans](https://a.questionable.link/DIGXIp.gif) |
 | [Change player icon](https://a.questionable.link/LnfGjS.gif) |
 
@@ -64,7 +64,7 @@ _Click on the categories to extend them._
 
 | Name |
 | --- |
-| [Select language lobby](https://a.questionable.link/e0r4PK.gif) |
+| [Select language lobby](https://a.questionable.link/JOpaFj.gif) |
 | [Invite friends](https://a.questionable.link/PVVYfs.gif) |
 | [Create custom game](https://a.questionable.link/ITmwdH.gif) |
 
